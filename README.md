@@ -1,5 +1,5 @@
 <div align=center>
-<img src="https://capsule-render.vercel.app/api?type=Rect&color=auto&height=200&section=header&text=SunHo Park&fontSize=80"/>
+<img src="https://capsule-render.vercel.app/api?type=Rect&color=auto&height=150&section=header&text=SunHo Park&fontSize=70"/>
 </div>
 
 <h3 align="center">🛠 Tech Stack 🛠 </h3>
