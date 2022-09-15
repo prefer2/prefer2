@@ -1,6 +1,6 @@
-<div align=center>
-<img src="https://capsule-render.vercel.app/api?type=Rect&color=auto&height=150&section=header&text=SunHo Park&fontSize=70"/>
-</div>
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=sunho%20park&fontSize=90" />
+</p>
 
 <h3 align="center">🛠 Tech Stack 🛠 </h3>
 
